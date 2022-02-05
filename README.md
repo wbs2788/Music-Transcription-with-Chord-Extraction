@@ -1,7 +1,7 @@
 # YouTube -> MIDI for Noobs
 
 A collection of scripts for interacting with Google's recent [MT3 multi-track MIDI transcription model](https://github.com/magenta/mt3).
-I had a lot of fun playing with this model, and wanted to make a more accessible demo for laypeople.
+I had a lot of fun playing with this model, and wanted to make a more accessible demo for the people... you people!
 Thus, the notebooks in this repo skip the audio upload and allows direct transcription from YouTube.
 
 ## How to use
