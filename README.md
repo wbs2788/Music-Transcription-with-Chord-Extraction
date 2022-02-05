@@ -1,5 +1,7 @@
-# Multi-Track Transcription of YouTube Songs Using Magenta/MT3
+# YouTube -> MIDI for Noobs
 
-The main notebook can be found here:
+A collection of scripts for interacting with Google's recent [MIDI transcription models](https://github.com/magenta/mt3).
+I had a lot of fun playing with these models, and wanted to make a more accessible demo for laypeople.
+Thus, the notebooks in this repo skip the audio upload and allows direct transcription from YouTube.
 
-<a href="https://colab.research.google.com/github/mdnestor/yt-mt3/blob/master/MT3_for_noobs.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* MT3 multi-track transcription: <a href="https://colab.research.google.com/github/mdnestor/yt-mt3/blob/master/MT3_for_noobs.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
