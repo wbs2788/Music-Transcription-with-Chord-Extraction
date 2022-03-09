@@ -1,13 +1,12 @@
-# YouTube → MIDI for Noobs
+# YouTube → MIDI in Batch
 
-A collection of scripts for interacting with Google's recent [MT3 multi-track MIDI transcription model](https://github.com/magenta/mt3).
-I had a lot of fun playing with this model, and wanted to make a more accessible demo for the people... you people!
-Thus, the notebooks in this repo skip the audio upload and allows direct transcription from YouTube.
+inspired by https://github.com/mdnestor/yt-mt3.
+
+use it for making a new dataset for multimodal data, more precisely ,for video-midi pair.
 
 ## How to use
 Open one of the following Colab notebooks with your Google account. 
-The notebooks are totally browser-based, with no downloads required.
-* <a href="https://colab.research.google.com/github/mdnestor/yt-mt3/blob/master/MT3_for_noobs.ipynb" target="_parent">YouTube to MIDI via MT3 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* <a href="https://colab.research.google.com/drive/18Fcy0xz4jqDddtK5qBv-rk6gKnULaIec?usp=sharing" target="_parent">YouTube to MIDI via MT3 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Having problems?
-If you run into a problem, please [open an issue](https://github.com/mdnestor/yt-mt3/issues) or [leave a mail](mailto:mdnest01@gmail.com).
+If you run into a problem, please [open an issue](https://github.com/mdnestor/yt-mt3/issues) or [leave a mail](mailto:278882988@qq.com).
